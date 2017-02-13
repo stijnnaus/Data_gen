@@ -1,0 +1,33 @@
+Questions regarding data:
+
+- Can I combine NOAA and AGAGE data? 
+
+- Why the weird latitudinal band weights in Montzka (2011)
+
+
+Montzka (2011):
+
+- 9 stations (3 SH, 6 NH): 
+	- SH: South Pole (SPO, high), Cape Grim (CGO, mid), Cape Matatula (SMO, low)
+	- NH: 	Low: Cape Kumukahi (KUM), Mauna Loa (MLO)
+		Mid: Niwot Ridge (NWR), Wisonsin (LEF)
+		High: Barrow (BRW), Alert (ALT)
+- 6 boxes: 3 latitudinal bands per hemisphere. He took 1 station per band in the SH and 2 per band in NH. 
+- Weight per band: [0.97, 0.76, 0.40]:[low, mid, high] (but changing this had no strong effect)
+
+Schaefer (2016)
+
+- 17 measurement stations (10 NH, 7 SH) (See table S2 of supplements)
+1. Monthly values were averaged for each year (missing months filled by interpolation from adjacent years)
+2. They calculated yearly averages for 5 latitudinal bands 
+   (90-60N (2), 60-30N (5), 30N-30S (4), 30-60S (2), 60-90S (3))
+3. The area-weighted average of each latitudinal band was taken as the global mean
+4. They calculated a spline fit through historical data
+1700 - 1987: They use the historical spline
+1988 - 1996: They splice the station data with the historical spline
+1996 - 2014: Only the station data is included
+
+
+Schwietzke (2016)
+
+- Very many stations

@@ -1,0 +1,7 @@
+#Code	Latitude	Longitude	Elevation(m)
+CGO	-40.68	144.69	94
+SMO	-14.23	-170.56	77
+RPB	13.17	-59.43	45
+MHD	53.33	-9.9	5
+THD	41.05	-124.15	107
+ORG	45	-124	10
