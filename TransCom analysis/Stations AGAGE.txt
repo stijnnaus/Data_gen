@@ -1,6 +1,0 @@
-# Measurement stations in the AGAGE network
-CGO
-MHD
-RPB
-SMO
-THD

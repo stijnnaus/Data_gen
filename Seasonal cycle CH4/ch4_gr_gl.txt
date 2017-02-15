@@ -1,0 +1,90 @@
+# --------------------------------------------------------------------
+# USE OF NOAA ESRL DATA
+# 
+# These data are made freely available to the public and the
+# scientific community in the belief that their wide dissemination
+# will lead to greater understanding and new scientific insights.
+# The availability of these data does not constitute publication
+# of the data.  NOAA relies on the ethics and integrity of the user to
+# insure that ESRL receives fair credit for their work.  If the data 
+# are obtained for potential use in a publication or presentation, 
+# ESRL should be informed at the outset of the nature of this work.  
+# If the ESRL data are essential to the work, or if an important 
+# result or conclusion depends on the ESRL data, co-authorship
+# may be appropriate.  This should be discussed at an early stage in
+# the work.  Manuscripts using the ESRL data should be sent to ESRL
+# for review before they are submitted for publication so we can
+# insure that the quality and limitations of the data are accurately
+# represented.
+# 
+# Contact:   Ed Dlugokencky (303 497 6228; ed.dlugokencky@noaa.gov)
+# 
+# File Creation:  Thu Jan  5 04:05:03 2017
+# 
+# RECIPROCITY
+# 
+# Use of these data implies an agreement to reciprocate.
+# Laboratories making similar measurements agree to make their
+# own data available to the general public and to the scientific
+# community in an equally complete and easily accessible form.
+# Modelers are encouraged to make available to the community,
+# upon request, their own tools used in the interpretation
+# of the ESRL data, namely well documented model code, transport
+# fields, and additional information necessary for other
+# scientists to repeat the work and to run modified versions.
+# Model availability includes collaborative support for new
+# users of the models.
+# --------------------------------------------------------------------
+#  
+#  
+# See www.esrl.noaa.gov/gmd/ccgg/trends_ch4/ for additional details.
+#  
+# Annual CH4 mole fraction increase (ppb) from Jan 1 through Dec 31.
+#
+# The uncertainty in the global annual mean growth rate is estimated using a
+# monte carlo technique that computes 100 time series of global annual increases
+# each time using measurement records from a different network of sites
+# from the NOAA ESRL cooperative air sampling network.  Each year has a different
+# uncertainty.  Please see Dlugokencky et al., 1994, JGR, vol. 99, 17021-17043
+# for a complete discussion.
+#
+# CH4 expressed as a mole fraction in dry air, nanomol/mol, abbreviated as ppb
+#
+# NOTE: In general, the data presented for the last year are subject to change,
+# depending on recalibration of the reference gas mixtures used, and other quality
+# control procedures. Occasionally, earlier years may also change for the same
+# reasons.  Usually these changes are minor.
+#
+# year       ann inc           unc
+  1984         13.10          0.90
+  1985         12.28          0.83
+  1986         12.10          0.78
+  1987         11.93          0.68
+  1988         11.02          0.48
+  1989         10.59          0.55
+  1990          9.14          0.47
+  1991         14.30          0.55
+  1992          2.07          0.39
+  1993          3.91          0.42
+  1994          7.24          0.47
+  1995          3.85          0.52
+  1996          2.23          0.36
+  1997          6.63          0.72
+  1998         12.00          0.68
+  1999          2.17          0.52
+  2000         -1.19          0.53
+  2001         -0.66          0.54
+  2002          3.16          0.62
+  2003          4.66          0.68
+  2004         -4.60          0.43
+  2005          0.23          0.46
+  2006          1.90          0.63
+  2007          7.82          0.59
+  2008          6.46          0.42
+  2009          4.80          0.54
+  2010          5.04          0.73
+  2011          5.46          0.58
+  2012          4.65          0.46
+  2013          5.77          0.56
+  2014         12.64          0.47
+  2015          9.74          0.70
